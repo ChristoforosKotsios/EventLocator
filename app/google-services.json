@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113164808914",
+    "project_id": "eventlocator-95917",
+    "storage_bucket": "eventlocator-95917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113164808914:android:10a5e1237e53fe9d82f30b",
+        "android_client_info": {
+          "package_name": "com.sttl.nancy.eventlocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113164808914-pjs04e6fb3411a2nj8vr7hoj9onb2ijb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANQ-cmshyA_1Z7qbsUP1wjN-W4yZLkdaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113164808914-pjs04e6fb3411a2nj8vr7hoj9onb2ijb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
